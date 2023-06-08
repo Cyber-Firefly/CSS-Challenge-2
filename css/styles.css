@@ -89,7 +89,7 @@ h1:hover {
     align-items: center;
     justify-content: center;
     margin: 0 auto;
-    text-align: center;
+    text-align: left;
     background-color: rgba(97, 112, 115, .7);
     color: #E8E8E8;
 }
